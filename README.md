@@ -12,4 +12,7 @@ Validating credit card numbers using Luhn's Algorithm. This script also sanitize
 
 ## Explanation
 - Step 1: import required module
-  
+  ```bash
+  import re
+  ```
+- Step 2: Luhn Check
