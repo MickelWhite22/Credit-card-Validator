@@ -10,4 +10,6 @@ Validating credit card numbers using Luhn's Algorithm. This script also sanitize
 ## Requirements
 - Python 3.x
 
+## Explanation
+- Step 1: import required module
   
