@@ -1,4 +1,4 @@
-# Credit-card-Validator
+# Credit-card-validator
 Validating credit card numbers using Luhn's Algorithm. This script also sanitizes and validates input to ensure the credit card number only consists of integers and meets the 13-digit length requirement.
 
 ## Attributes
